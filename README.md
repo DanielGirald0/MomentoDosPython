@@ -18,8 +18,8 @@ Taller para demostrar lo aprendido en clase
 
 ***
 ### Ejecutar:
-`python ejemplo1.py`   
-`python ejemplo2.py`
+`python ejercicioUno.py`   
+`python ejercicioDos.py`
 
 ### Enlaces relacionados
 [Pagina aliada](http://www.google.com)
